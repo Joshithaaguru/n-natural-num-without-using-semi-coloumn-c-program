@@ -1,0 +1,1 @@
+# n-natural-num-without-using-semi-coloumn-c-program
